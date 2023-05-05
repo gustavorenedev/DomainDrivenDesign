@@ -34,6 +34,5 @@ public class Vetores {
 		for(int i = 0; i < vetor.length; i++) {
 			System.out.printf(" vetor[%d]: %d", i, vetor[i]);
 		}
-
 	}
 }
